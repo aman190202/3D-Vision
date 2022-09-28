@@ -1,10 +1,15 @@
 # Path to 3D-Vision
 The repository involves my path into **Machine Learning with 3D Vision**.
 ## Papers and books referred
-1. [Generating 3D-objects using neural networks using **Patrik Stigerborn**](https://www.diva-portal.org/smash/get/diva2:1218064/FULLTEXT01.pdf)
-2. Hierarchical Surface Prediction by Christian Ha ̈ne, Shubham Tulsiani, Jitendra Malik Fellow
-3. 3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction by Christopher B. Choy Danfei Xu⋆ JunYoung Gwak⋆ Kevin Chen Silvio Savarese
-4. Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling
+1. High Quality Monocular Depth Estimation via Transfer Learning
+2. [Generating 3D-objects using neural networks using **Patrik 
+Stigerborn**](https://www.diva-portal.org/smash/get/diva2:1218064/FULLTEXT01.pdf)
+3. Hierarchical Surface Prediction by Christian Ha ̈ne, Shubham Tulsiani, 
+Jitendra Malik Fellow
+4. 3D-R2N2: A Unified Approach for Single and Multi-view 3D Object 
+Reconstruction by Christopher B. Choy Danfei Xu⋆ JunYoung Gwak⋆ Kevin Chen Silvio Savarese
+5. Learning a Probabilistic Latent Space of Object Shapes via 3D 
+Generative-Adversarial Modeling
 ## Basics
 ### Mesh
 A 3D mesh is the structural build of a 3D model consisting of polygons. 3D meshes use reference points in X, Y and Z axes to define shapes with height, width and depth.
